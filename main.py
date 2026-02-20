@@ -3,7 +3,7 @@ import sqlite3
 import random
 import time
 
-TOKEN = 'В8503437627:AAEXDI8f4eJJJZJYFslQUTz580oajOe2kOU'
+TOKEN = 'ваш токен'
 bot = telebot.TeleBot(TOKEN)
 
 def init_db():
